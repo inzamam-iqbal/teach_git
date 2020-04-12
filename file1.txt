@@ -4,3 +4,9 @@ feature1{
     afsfsf
     fafafssf
 }
+
+feature2{
+    fndsfsof
+    fvsdgfsf
+    dsfgfs
+}
